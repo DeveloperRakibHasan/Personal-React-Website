@@ -1,8 +1,0 @@
-.menu-section {
-    position: relative;
-    display: inline-block;
-    width: 17%;
-    background: rgba(16 18 27 / 40%);
-    height: 100%;
-    backdrop-filter: blur(20px);
-}
